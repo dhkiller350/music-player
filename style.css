@@ -28,3 +28,14 @@
 body{
     background: black;
 }
+
+h1{
+    color:lime;
+    text-align:center;
+}
+
+p{
+    color:lime;
+    text-align:center;
+    font-size:30%;
+}
